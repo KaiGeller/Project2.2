@@ -1,0 +1,5 @@
+print("Please enter a Celsius Temperature")
+C = int(input("Please enter a temperature here: "))
+print(C)
+F=str((9/5)*C+32)
+print("The equivalent Fahrenheit temperature is " + F + ".")
